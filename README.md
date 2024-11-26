@@ -1,16 +1,20 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# A Revolução da Inteligência Artificial na Inclusão Digital das Mulheres 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 3 páginas explora o impacto revolucionário das IAs na Inclusão Digital das Mulheres. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta Microsoft Word para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs, estruturar o conteúdo e refinar minhas ideias. 
+Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. 
+Para concluir, a montagem final foi feita no Microsoft Word, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs podem ser uma ferramenta poderosa na na Inclusão Digital das Mulheres.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book foi uma experiência motivante e descobri mais recursos com  IAs e como elas podem ser aplicadas no nosso dia a dia.
