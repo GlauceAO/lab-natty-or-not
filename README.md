@@ -16,7 +16,7 @@ Para concluir, a montagem final foi feita no Microsoft Word, por ser uma ferrame
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs podem ser uma ferramenta poderosa na na Inclusão Digital das Mulheres.
 
-A tecnologia de Inteligência Artificial (IA) na promoção da inclusão digital para mulheres. 1.docx
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência motivante e descobri mais recursos com  IAs e como elas podem ser aplicadas no nosso dia a dia.
